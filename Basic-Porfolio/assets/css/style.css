@@ -1,0 +1,173 @@
+header {
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-size: 30px;
+	height: 40px;
+	background-color: #4aaaa5;
+	color: white;
+	display: inline-block;
+	padding: 20px 10px;
+
+}
+
+.header {
+	border-bottom: 2px solid #cccccc;
+	background-color: white;
+}
+
+
+.navBar {
+	height: 50px;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: right;
+	float: right;
+}
+
+.navBar a {
+	text-decoration: none;
+	color: #777777;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+
+.background {
+    background: url('./assets/images/memphis-color.png')
+    background-position: 50% 50%;
+    background-clip: padding-box;
+}
+
+#profilepic {
+	float: left;
+
+}
+
+.whitebox {
+	background-color: white;
+	border: 1px solid gray;
+	padding: 20px 10px; 
+}
+
+.sidebar {
+	width: 270px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+.about {
+	width: 650px;
+	display: inline-block;
+
+}
+
+body {
+	background: url('../images/memphis-colorful.png');
+	padding: 0;
+	margin: 0;
+
+}
+footer {
+	height: 50px;
+	background-color: gray;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.copyright {
+	text-align: center;
+}
+
+.contact {
+	width: 650px;
+	display: inline-block;
+}
+
+.contact input {
+	width: 100%;
+}
+
+.contactheader {
+	font-size: 30px;
+	font-style: Arial;
+	color: #4aaaa5;
+}
+
+.gallery {
+	display: inline-block;
+	width: 650px;
+}
+
+.imagelabel {
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+}
+
+.wrapper {
+	display: inline-block;
+	position: relative;
+	text-align: center;
+}
+
+.secondlabel {
+
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+}
+
+.secondwrapper {
+	display: inline-block;
+	position: relative;
+	text-align: center;
+}
+
+
+.thirdlabel {
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+}
+
+.thirdwrapper{
+	display: inline-block;
+	position: relative;
+	text-align: center;
+
+}
+
+.fourthlabel {
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+}
+
+.fourthwrapper{
+	display: inline-block;
+	position: relative;
+	text-align: center;
+
+}
