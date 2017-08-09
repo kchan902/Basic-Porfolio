@@ -1,0 +1,220 @@
+header {
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-size: 30px;
+	height: 40px;
+	background-color: #4aaaa5;
+	color: white;
+	display: inline-block;
+	padding: 20px 10px;
+
+}
+
+.header {
+	border-bottom: 2px solid #cccccc;
+	background-color: white;
+}
+
+
+.navBar {
+	height: 50px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: right;
+	float: right;
+}
+
+h1 {
+	font-family: "Georgia";
+	font-size: 28px;
+	padding-bottom: 10px;
+	color: #4aaaa5;
+	font-weight: bold;
+
+}
+
+p {
+	padding-bottom: 15px;
+	font-size: 18px;
+	font-family: "Helvetica Neue";
+
+}
+
+.navBar a {
+	text-decoration: none;
+	color: #777777;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+
+.background {
+    background: url('./assets/images/memphis-color.png')
+    background-position: 50% 50%;
+    background-clip: padding-box;
+}
+
+#profilepic {
+	float: left;
+	padding-right: 20px;
+
+}
+
+.whitebox {
+	background-color: white;
+	border: 1px solid gray;
+	padding: 20px 10px; 
+}
+
+.sidebar {
+	width: 270px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 100px;
+	position: fixed;
+
+}
+
+.about {
+	width: 650px;
+	display: inline-block;
+	margin-bottom: 50px;
+
+}
+
+body {
+	background: url('../images/memphis-colorful.png');
+	padding: 0;
+	margin: 0;
+
+}
+footer {
+	height: 40px;
+	background-color: gray;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}
+
+.copyright {
+	text-align: center;
+}
+
+.contact {
+	width: 650px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+
+.contact input {
+	width: 100%;
+}
+
+.contactheader {
+	font-size: 30px;
+	font-style: Arial;
+	color: #4aaaa5;
+}
+
+.gallery {
+	display: inline-block;
+	width: 650px;
+}
+
+.imagelabel {
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	z-index: 1;
+	bottom: 0;
+	width: 277px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.wrapper {
+	display: inline-block;
+	position: relative;
+	text-align: center;
+}
+
+.secondlabel {
+
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.secondwrapper {
+	display: inline-block;
+	position: relative;
+	text-align: center;
+}
+
+
+.thirdlabel {
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.thirdwrapper{
+	display: inline-block;
+	position: relative;
+	text-align: center;
+
+}
+
+.fourthlabel {
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.fourthwrapper{
+	display: inline-block;
+	position: relative;
+	text-align: center;
+
+}
+
+.fifthlabel {
+	padding: 15px 0px;
+	background-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	width: 277px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.fifthwrapper{
+	display: inline-block;
+	position: relative;
+	text-align: center;
+
+}
